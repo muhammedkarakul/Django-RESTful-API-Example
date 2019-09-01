@@ -1,10 +1,11 @@
 # Django RESTful API Örneği
 
 ## İçindekiler
-    1. Giriş
-    2. Gereksinimler
-    3. Kurulum
-    4. Kaynak
+
+1. Giriş
+2. Gereksinimler
+3. Kurulum
+4. Kaynak
 
 ## Giriş
 <p>Django ile basit bir RESTful API geliştireceğiz.</p>
@@ -47,24 +48,24 @@ sudo pip install virtualenv
 virtualenv –p python3 venv
 ```
 
-    - oluşturduğumuz ortamı aktif ediyoruz.
+- oluşturduğumuz ortamı aktif ediyoruz.
 
 ```
 source venv/bin/activate
 ```
 
-    - requirements.txt dosyasını oluşturuyoruz. İçeriği şu şekilde olacak:
+- requirements.txt dosyasını oluşturuyoruz. İçeriği şu şekilde olacak:
     
-    ```
-    Django
-    djangorestframework
-    ```
+```
+Django
+djangorestframework
+```
     
-    - requirements.txt içerisinde yer alan paketleri yükleme
+- requirements.txt içerisinde yer alan paketleri yükleme
     
-    ```
-    pip install –r requirements.txt
-    ```
+```
+pip install –r requirements.txt
+```
     
 ### Yeni Bir Django Projesi Oluşturma 
 
