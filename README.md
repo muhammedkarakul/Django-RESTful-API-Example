@@ -78,5 +78,5 @@ django-admin startproject restuygulama .
 
 ## Kaynak
 
-    1. <a href="https://medium.com/@burakakyol07/django-ve-django-rest-framework-kullanarak-restful-api-oluşturmak-7f6e5c0a5783">Django ve Django Rest Framework Kullanarak RESTful API Oluşturmak-1</a>
-    2. <a href="https://medium.com/@burakakyol07/django-ve-django-rest-framework-kullanarak-restful-api-oluşturmak-2-a3359a451661">Django ve Django Rest Framework Kullanarak RESTful API Oluşturmak-2</a>
+1. <a href="https://medium.com/@burakakyol07/django-ve-django-rest-framework-kullanarak-restful-api-oluşturmak-7f6e5c0a5783">Django ve Django Rest Framework Kullanarak RESTful API Oluşturmak-1</a>
+2. <a href="https://medium.com/@burakakyol07/django-ve-django-rest-framework-kullanarak-restful-api-oluşturmak-2-a3359a451661">Django ve Django Rest Framework Kullanarak RESTful API Oluşturmak-2</a>
